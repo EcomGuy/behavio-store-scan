@@ -2,7 +2,7 @@
 
 **What do the top Shopify stores know about buyer psychology that your store doesn't?**
 
-We read 193 of the top US Shopify stores across 9 niches, page by page: how they price, how they frame offers, what sits next to the Add to cart button, how they build bigger baskets, how they make a hesitant shopper buy. Then we turned it into a Claude skill.
+We read 193 of the top US Shopify stores across 9 niches (and we're growing the set to 1,000), page by page: how they price, how they frame offers, what sits next to the Add to cart button, how they build bigger baskets, how they make a hesitant shopper buy. Then we turned it into a Claude skill.
 
 Give it your store's URL. In about 60 seconds it compares your store with the leaders in your niche and writes a report that shows exactly what's missing to raise your **average order value (AOV)** and your **conversion rate (CVR)**, in plain dollars, with the 3 fixes worth doing first.
 
