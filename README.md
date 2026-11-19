@@ -1,6 +1,12 @@
 # Behavio Store Scan
 
-A free Claude skill that scans your Shopify store in about 60 seconds and tells you, in plain dollars, where the store gives away margin and where it loses buyers. Free, MIT, no signup, no API key, no app install.
+**What do the top Shopify stores know about buyer psychology that your store doesn't?**
+
+We read 193 of the top US Shopify stores across 9 niches, page by page: how they price, how they frame offers, what sits next to the Add to cart button, how they build bigger baskets, how they make a hesitant shopper buy. Then we turned it into a Claude skill.
+
+Give it your store's URL. In about 60 seconds it compares your store with the leaders in your niche and writes a report that shows exactly what's missing to raise your **average order value (AOV)** and your **conversion rate (CVR)**, in plain dollars, with the 3 fixes worth doing first.
+
+Free, MIT, no signup, no API key, no app install.
 
 ## What's a skill?
 
@@ -52,6 +58,8 @@ A report under 450 words, always in this order:
 | Next step | The do-it-yourself route first, Behavio as an option only for stores with 5,000+ monthly visitors |
 
 ## The 14 checks
+
+Each check is a lever the top stores pull. Basket builders, tiers, gifts and shipping thresholds raise AOV. The persuasion stack by the button, defaults, urgency, trust and proof lift CVR. Offer targeting stops you from paying a discount to buyers who would have paid full price.
 
 | Group | Checks |
 |---|---|
